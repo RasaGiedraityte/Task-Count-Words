@@ -1,0 +1,6 @@
+C:\Users\giedr\source\repos\CountWords\CountWords\bin\Debug\CountWords.exe.config
+C:\Users\giedr\source\repos\CountWords\CountWords\bin\Debug\CountWords.exe
+C:\Users\giedr\source\repos\CountWords\CountWords\bin\Debug\CountWords.pdb
+C:\Users\giedr\source\repos\CountWords\CountWords\obj\Debug\CountWords.csproj.CoreCompileInputs.cache
+C:\Users\giedr\source\repos\CountWords\CountWords\obj\Debug\CountWords.exe
+C:\Users\giedr\source\repos\CountWords\CountWords\obj\Debug\CountWords.pdb
